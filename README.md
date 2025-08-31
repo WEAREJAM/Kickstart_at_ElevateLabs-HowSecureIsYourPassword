@@ -38,12 +38,6 @@ These tools work best when attackers already have some personal information.
 ## Creating Custom Wordlists with CUPP  
 
 Attackers can generate wordlists using **CUPP (Common User Passwords Profiler)**.  
-Example workflow:  
-
-```bash
-git clone https://github.com/Mebus/cupp.git
-cd cupp
-python3 cupp.py -i
 
 This lets attackers build targeted wordlists based on:
 
@@ -59,11 +53,11 @@ Numbers & special characters
 
 With such custom lists, the chance of your password being guessed increases drastically.
 
-# Final Layer of Security: MFA
+## Final Layer of Security: MFA
 
 Even if your password is cracked, enabling Multi-Factor Authentication (MFA) makes it almost impossible for attackers to access your account.
 
-# Conclusion
+## Conclusion
 
 Every password can be cracked – but we can make it harder.
 
