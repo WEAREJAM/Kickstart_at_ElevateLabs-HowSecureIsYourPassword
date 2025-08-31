@@ -72,6 +72,10 @@ __python cupp.py -i__
 
 With this, the wordlist is created. 
 
+__Most dangerous tool where the combinations are created, the chance of guessing your password in this wordlist is more__
+
+
+
 In this way we can create the wordlist, but if you ask what is the best way to keep an account is to enable MFA [MULTI FACTOR AUTHENTICATION]. This keeps the account secure and safe. 
 
 __Thank you and happy browsing__ 
