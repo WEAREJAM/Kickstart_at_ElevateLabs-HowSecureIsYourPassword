@@ -8,31 +8,31 @@ There are many available applications and tools to test the strength of our pass
 
 Go to -> https://bitwarden.com/password-strength/
 
-sa1
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa1.png?raw=true)
 
 This application is showing how strong your password is and how many hours/days/years will take for any tool to crack it.
 
 # Trail 1: Just name 
 
-sa2 
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa2.png?raw=true)
 
 __The password is very weak and it will take less than a second to crack it.__ 
 
 # Trail 2: Adding special characters
 
-sa3 
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa3.png?raw=true)
 
 __The password is very weak and it takes 2 seconds to crack it__
 
 # Trail 3: First character uppercase and more characters
 
-sa4
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa4.png?raw=true)
 
 __The password strength is good and it takes 3 hours to crack__ Not good enough
 
 # Trail 4: special character and numeric 
 
-sa5 
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa5.png?raw=true) 
 
 __The password is strong and the time estimated to crack is 5 months__ Pretty good.
 
@@ -42,7 +42,7 @@ Note: Every brute forcing tool is just designed to try the already available cha
 
 Previous the websites do accept  any password but now we see the application signup is not possible when your password is not strong enough 
 
-sa6 
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/assets/sa6.png?raw=true) 
 
 In the above image, we see the password requirements there, the account can be created only  when the password is strong enough. PERIOD!!
 
