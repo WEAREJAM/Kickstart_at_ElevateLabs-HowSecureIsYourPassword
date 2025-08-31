@@ -54,6 +54,29 @@ John the Ripper
 
 So can i just use the tool randomly with the any wordlist?? NO
 
+The advantage to attackers is that they can just create a wordlist according to the info they have 
+
+Example: I know their first name, last name, date of birth, and other info. i can just create combinations according to the information I have. i can laso include numbers or special characters with the tool. 
+
+Lets see how can i just create the combinations with # CUPP. 
+
+__Once you cloned CUPP with git__ 
+
+__Cd cupp__
+
+__python cupp.py -i__
+
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-HowSecureIsYourPassword/blob/main/assets/sa7.png?raw=true) 
+
+![example](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-HowSecureIsYourPassword/blob/main/assets/sa8.png?raw=true) 
+
+With this, the wordlist is created. 
+
+In this way we can create the wordlist, but if you ask what is the best way to keep an account is to enable MFA [MULTI FACTOR AUTHENTICATION]. This keeps the account secure and safe. 
+
+__Thank you and happy browsing__ 
+
+__Jamming With JAM__
 
 
 
